@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "992689285184",
+    "firebase_url": "https://raffirebase.firebaseio.com",
+    "project_id": "raffirebase",
+    "storage_bucket": "raffirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992689285184:android:98b3bec6a53c17ba",
+        "android_client_info": {
+          "package_name": "com.example.raf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992689285184-3jcbv40uan0si2hi9b9ku0hc2m2gctt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raf",
+            "certificate_hash": "e53c589583c2d7d6cde80425a9d4dfd5ce9dc74b"
+          }
+        },
+        {
+          "client_id": "992689285184-0d2ln5lev8lc4762s49ofdq9qfc9oiqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPsZUgqelf8-BLbUqGVYZbXb-o83uZCMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992689285184-0d2ln5lev8lc4762s49ofdq9qfc9oiqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

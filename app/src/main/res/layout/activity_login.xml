@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".activity.LoginActivity">
+
+    <EditText
+        android:id="@+id/etxt_login_username"
+        android:hint="@string/log_username"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"/>
+
+    <EditText
+        android:id="@+id/etxt_login_index"
+        android:hint="@string/log_index"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"/>
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:text="@string/btn_login"
+        android:layout_margin="10dp"/>
+    
+</LinearLayout>
